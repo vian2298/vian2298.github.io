@@ -143,3 +143,15 @@ footer a:not(.nav-link) {
   .page-break {
     padding-top: 5rem;
     page-break-before: always; } }
+
+    .button {
+      font: bold 15px Arial;
+      text-decoration: none;
+      background-color: #f3eded;
+      color: #020202;
+      padding: 2px 6px 2px 6px;
+      border-top: 3px solid #1ac036;
+      border-right: 3px solid #1ac036;
+      border-bottom: 3px solid #1ac036;
+      border-left: 3px solid #1ac036;
+    }
